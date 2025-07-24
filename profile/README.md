@@ -34,3 +34,11 @@
    [http://localhost:4200](http://localhost:4200)
 
 > Pronto! O projeto estará rodando localmente 🎉
+
+
+📄 Veja mais detalhes em:
+[README do fiap-tc-angular](./fiap-tc-angular/README.md)
+[README do fiap-tc-react](./fiap-tc-react/README.md)
+[README do fiap-tc-shell](./fiap-tc-shell/README.md)
+[README do fiap-tc-shared](./fiap-tc-shared/README.md)
+
