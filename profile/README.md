@@ -35,7 +35,7 @@
 
 > Pronto! O projeto estará rodando localmente 🎉
 
-
+---
 
 📦 Confira também: 
 
