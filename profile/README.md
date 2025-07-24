@@ -36,13 +36,12 @@
 > Pronto! O projeto estará rodando localmente 🎉
 
 
-📄 Veja mais detalhes em:
+📦 Confira também: 
 
-[README do fiap-tc-angular](./fiap-tc-angular/README.md)
+[README do projeto fiap-tc-angular](https://github.com/fiap-pos-front-end/fiap-tc-angular/blob/main/README.md)/
 
-[README do fiap-tc-react](./fiap-tc-react/README.md)
+[README do projeto fiap-tc-react](https://github.com/fiap-pos-front-end/fiap-tc-react/blob/main/README.md)/
 
-[README do fiap-tc-shell](./fiap-tc-shell/README.md)
+[README do projeto fiap-tc-shell](https://github.com/fiap-pos-front-end/fiap-tc-shell/blob/main/README.md)/
 
-[README do fiap-tc-shared](./fiap-tc-shared/README.md)
-
+[README do projeto fiap-tc-shared](https://github.com/fiap-pos-front-end/fiap-tc-shared/blob/main/README.md)/
