@@ -37,6 +37,7 @@
 
 
 📄 Veja mais detalhes em:
+
 [README do fiap-tc-angular](./fiap-tc-angular/README.md)
 
 [README do fiap-tc-react](./fiap-tc-react/README.md)
