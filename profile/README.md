@@ -8,7 +8,7 @@
 
 > Ao final, sua estrutura de pastas deve se parecer com isso:
 
-<img width="654" height="327" alt="Estrutura de pastas" src="https://github.com/user-attachments/assets/8c389cff-b685-40e9-bfbb-cee272b00346" />
+<img width="628" height="396" alt="Exemplo organização de pastas" src="https://github.com/user-attachments/assets/345b1238-038d-4d82-9828-b7b7082dafd9" />
 
 ---
 
