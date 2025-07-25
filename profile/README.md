@@ -27,6 +27,7 @@
 3. Execute os seguintes comandos:
    ```bash
    npm run sync:all
+   npm run install:all
    npm run start:all
    ```
 
