@@ -40,10 +40,12 @@
 
 📦 Confira também: 
 
-[README do projeto fiap-tc-angular](https://github.com/fiap-pos-front-end/fiap-tc-angular/blob/main/README.md)/
+[README do MFE fiap-tc-angular (Transferências)](https://github.com/fiap-pos-front-end/fiap-tc-angular/blob/main/README.md)/
 
-[README do projeto fiap-tc-react](https://github.com/fiap-pos-front-end/fiap-tc-react/blob/main/README.md)/
+[README do MFE fiap-tc-angular2 (Categorias)](https://github.com/fiap-pos-front-end/fiap-tc-angular2/blob/main/README.md)/
 
-[README do projeto fiap-tc-shell](https://github.com/fiap-pos-front-end/fiap-tc-shell/blob/main/README.md)/
+[README do MFE fiap-tc-react (Dashboards)](https://github.com/fiap-pos-front-end/fiap-tc-react/blob/main/README.md)/
 
-[README do projeto fiap-tc-shared](https://github.com/fiap-pos-front-end/fiap-tc-shared/blob/main/README.md)/
+[README do projeto fiap-tc-shell (Host)](https://github.com/fiap-pos-front-end/fiap-tc-shell/blob/main/README.md)/
+
+[README do projeto fiap-tc-shared (Biblioteca utilitária)](https://github.com/fiap-pos-front-end/fiap-tc-shared/blob/main/README.md)/
