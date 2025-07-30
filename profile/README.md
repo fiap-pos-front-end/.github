@@ -8,13 +8,20 @@
 
 > Ao final, sua estrutura de pastas deve se parecer com isso:
 
-<img width="628" height="396" alt="Exemplo organização de pastas" src="https://github.com/user-attachments/assets/345b1238-038d-4d82-9828-b7b7082dafd9" />
+<img width="909" height="416" alt="image" src="https://github.com/user-attachments/assets/7216f951-e338-4aa6-b4db-d4f60ffcaae0" />
 
 ---
 
 ### Rodando o Projeto
 
 #### - Usando Docker
+1. Acesse a pasta criada contendo todos os repositorios
+2. Na raiz, digite:
+   ```bash
+   docker compose --env-file .env up --build
+   ```
+3. Após terminar de buildar, verifique o seu DockerDesktop e acesse o shell.
+<img width="2249" height="314" alt="image" src="https://github.com/user-attachments/assets/c783552b-52d4-4b18-a600-256babee1781" />
 
 
 #### - Sem Docker
