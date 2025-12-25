@@ -3,7 +3,7 @@
 ### Iniciando o Projeto
 
 1. Crie uma pasta principal para o projeto.
-2. Clone **todos os repositórios disponíveis** dentro dessa pasta.
+2. Clone os repositórios: **shell, angular, angular2, react, api e shared** dentro dessa pasta.
 
 > Ao final, sua estrutura de pastas deve se parecer com isso:
 
