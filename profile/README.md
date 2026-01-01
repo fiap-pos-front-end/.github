@@ -2,8 +2,12 @@
 
 ### Iniciando o Projeto
 
-1. Crie uma pasta principal para o projeto.
-2. Clone os repositórios: **shell, angular, angular2, react, api e shared** dentro dessa pasta.
+1. Crie uma pasta principal para o projeto no local de sua preferência.
+2. Clone os repositórios: **shell, angular, angular2, react, api e shared** dentro dessa pasta. _Para facilitar, deixamos o comando pronto, então basta acessar a pasta criada no passo 1 (ex: `cd tc4`) e rodar o seguinte comando:_ 
+
+```sh
+git clone git@github.com:fiap-pos-front-end/fiap-tc-shell.git && git clone git@github.com:fiap-pos-front-end/fiap-tc-angular.git && git clone git@github.com:fiap-pos-front-end/fiap-tc-angular2.git && git clone git@github.com:fiap-pos-front-end/fiap-tc-react.git && git clone git@github.com:fiap-pos-front-end/fiap-tc-api.git && git clone git@github.com:fiap-pos-front-end/fiap-tc-shared.git
+```
 
 > Ao final, sua estrutura de pastas deve se parecer com isso:
 
