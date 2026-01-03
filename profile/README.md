@@ -30,7 +30,8 @@ git clone git@github.com:fiap-pos-front-end/fiap-tc-shell.git && git clone git@g
 
 4. Será necessário criar um token pessoal por conta da nossa biblioteca particular.
    - Faça a [configuração](https://github.com/fiap-pos-front-end/fiap-tc-shared/blob/main/README.md#detalhes-da-publicação) descrita na seção `Detalhes da publicação` do link anterior e adicione nos projetos `fiap-tc-shell`, `fiap-tc-angular`, `fiap-tc-angular2` e `fiap-tc-react`.
-     
+
+   <br/>  
    <img width="527" height="47" alt="image" src="https://github.com/user-attachments/assets/a274f1c1-ec8c-457c-a408-f8eca5d47824" />
 
 5. Execute os seguintes comandos:
