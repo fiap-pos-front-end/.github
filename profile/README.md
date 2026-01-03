@@ -22,14 +22,21 @@ git clone git@github.com:fiap-pos-front-end/fiap-tc-shell.git && git clone git@g
    ```bash
    cd fiap-tc-shell
    ```
-3. Execute os seguintes comandos:
+3. Instale o `concurrently` globalmente:
+   ```bash
+   npm i -g concurrently
+   ```
+4. Execute os seguintes comandos:
    ```bash
    npm run sync:all
    npm run install:all
    npm run start:all
    ```
 
-4. Abra o navegador e acesse:  
+   (Erro 401 - `npm run install:all`)
+   - Faça a [configuração](https://github.com/fiap-pos-front-end/fiap-tc-shared/blob/main/README.md#detalhes-da-publicação) `Detalhes da publicação` nos projetos `shell`, `angular`, `angular2` e `react`.
+   
+6. Abra o navegador e acesse:  
    [http://localhost:4200](http://localhost:4200)
 
 > Pronto! O projeto estará rodando localmente 🎉
