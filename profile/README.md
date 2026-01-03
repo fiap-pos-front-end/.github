@@ -28,7 +28,7 @@ git clone git@github.com:fiap-pos-front-end/fiap-tc-shell.git && git clone git@g
    npm i -g concurrently
    ```
 
-4. Será necessário criar um token pessoal por conta da nossa biblioteca particular
+4. Será necessário criar um token pessoal por conta da nossa biblioteca particular.
    - Faça a [configuração](https://github.com/fiap-pos-front-end/fiap-tc-shared/blob/main/README.md#detalhes-da-publicação) `Detalhes da publicação` nos projetos `shell`, `angular`, `angular2` e `react`.
      
    <img width="544" height="118" alt="image" src="https://github.com/user-attachments/assets/6f13a082-b98a-4d68-8f77-6bf8132cdbf5" />
